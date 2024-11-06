@@ -33,7 +33,6 @@
 ![](https://img.shields.io/badge/Code-Typescript-3979e4?style=flat-square&logoColor=ffffff&logo=typescript)
 ![](https://img.shields.io/badge/Platform-Next.js-3979e4?style=flat-square&logo=next.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/Code-React-3979e4?style=flat-square&logoColor=ffffff&logo=react)
-![](https://img.shields.io/badge/OS-Linux-3979e4?style=flat-square&logoColor=ffffff&logo=linux)
 ![](https://img.shields.io/badge/Editor-VS_Code-3979e4?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Design-Figma-3979e4?style=flat-square&logoColor=ffffff&logo=figma)
 ![](https://img.shields.io/badge/Code-CSS-3979e4?style=flat-square&logoColor=ffffff&logo=css3)
