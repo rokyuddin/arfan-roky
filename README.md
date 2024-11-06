@@ -47,12 +47,7 @@
 ![](https://img.shields.io/badge/Platform-Storyblok-3979e4?style=flat-square&logoColor=ffffff&logo=storyblok)
 </div>
 
- <h2 align="center">My GitHub Stats</h2>
-
-<div align="left">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub stats Card" />
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfan-roky&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd&layout=compact&langs_count=6" alt="Arfan Roky GitHub top-langs Card" />
-</div>
+ <h2 align="left">My GitHub Stats</h2>
 
 <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&count_private=true&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky's GitHub Stats">
