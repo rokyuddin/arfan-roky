@@ -14,8 +14,7 @@
 - 🌱 I'm currently learning: 📚 Exploring Gsap and Vitest for testing
 - 💬 Ask me about: 💡 JavaScript, Typescript,  React, Next JS, Tailwind and Material UI
 - ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!
-- 📂 Portfolio: <a href="https://arfanroky.cloud" target="_blank">https://arfanroky.cloud</a>
-
+- 
 <h2 align="left">My Online Presence</h2>
 
 <div align="left">
