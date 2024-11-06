@@ -20,9 +20,9 @@
 
 <div align="left">
 
-[![](https://img.shields.io/badge/-website-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.arfanroky.cloud/)
-[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/arfanroky/)
-[![](https://img.shields.io/badge/-x/twitter-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/arfanroky/)
+[![](https://img.shields.io/badge/-website-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.arfanroky.cloud/)
+[![](https://img.shields.io/badge/-linkedin-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/arfanroky/)
+[![](https://img.shields.io/badge/-x/twitter-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/arfanroky/)
 
 </div>
 
@@ -30,20 +30,21 @@
 
 <div align="left">
 
-![](https://img.shields.io/badge/Code-JavaScript-8FFF86?style=flat-square&logoColor=ffffff&logo=javascript)
-![](https://img.shields.io/badge/Code-Typescript-8FFF86?style=flat-square&logoColor=ffffff&logo=typescript)
-![](https://img.shields.io/badge/OS-Linux-8FFF86?style=flat-square&logoColor=ffffff&logo=linux)
-![](https://img.shields.io/badge/Editor-VS_Code-8FFF86?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
-![](https://img.shields.io/badge/Design-Figma-8FFF86?style=flat-square&logoColor=ffffff&logo=figma)
-![](https://img.shields.io/badge/Code-CSS-8FFF86?style=flat-square&logoColor=ffffff&logo=css3)
-![](https://img.shields.io/badge/Code-Sass-8FFF86?style=flat-square&logoColor=ffffff&logo=sass)
-![](https://img.shields.io/badge/Code-Vue.js-8FFF86?style=flat-square&logoColor=ffffff&logo=vuedotjs)
-![](https://img.shields.io/badge/Code-Nuxt-8FFF86?style=flat-square&logoColor=ffffff&logo=nuxtdotjs)
-![](https://img.shields.io/badge/Code-Tailwind-8FFF86?style=flat-square&logoColor=ffffff&logo=tailwind-css)
-![](https://img.shields.io/badge/Tool-Bash-8FFF86?style=flat-square&logoColor=ffffff&logo=gnu-bash)
-![](https://img.shields.io/badge/Platform-Docker-8FFF86?style=flat-square&logoColor=ffffff&logo=docker)
-![](https://img.shields.io/badge/Platform-Storyblok-8FFF86?style=flat-square&logoColor=ffffff&logo=storyblok)
-![](https://img.shields.io/badge/Platform-Netlify-8FFF86?style=flat-square&logoColor=ffffff&logo=netlify)
+![](https://img.shields.io/badge/Code-JavaScript-3979e4?style=flat-square&logoColor=ffffff&logo=javascript)
+![](https://img.shields.io/badge/Code-Typescript-3979e4?style=flat-square&logoColor=ffffff&logo=typescript)
+![](https://img.shields.io/badge/Code-NextJS-3979e4?style=flat-square&logoColor=ffffff&logo=nextjs)
+![](https://img.shields.io/badge/Code-React-3979e4?style=flat-square&logoColor=ffffff&logo=react)
+![](https://img.shields.io/badge/OS-Linux-3979e4?style=flat-square&logoColor=ffffff&logo=linux)
+![](https://img.shields.io/badge/Editor-VS_Code-3979e4?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
+![](https://img.shields.io/badge/Design-Figma-3979e4?style=flat-square&logoColor=ffffff&logo=figma)
+![](https://img.shields.io/badge/Code-CSS-3979e4?style=flat-square&logoColor=ffffff&logo=css3)
+![](https://img.shields.io/badge/Code-Tailwind-3979e4?style=flat-square&logoColor=ffffff&logo=tailwind-css)
+![](https://img.shields.io/badge/Code-Material-UI-3979e4?style=flat-square&logoColor=ffffff&logo=material-ui)
+![](https://img.shields.io/badge/Gsap-3979e4?style=flat-square&logoColor=ffffff&logo=gsap)
+![](https://img.shields.io/badge/Framer-Motion-3979e4?style=flat-square&logoColor=ffffff&logo=framer-motion)
+![](https://img.shields.io/badge/Tool-Bash-3979e4?style=flat-square&logoColor=ffffff&logo=gnu-bash)
+![](https://img.shields.io/badge/Platform-Docker-3979e4?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Platform-Storyblok-3979e4?style=flat-square&logoColor=ffffff&logo=storyblok)
 </div>
 
  <h2 align="center">My GitHub Stats</h2>**
