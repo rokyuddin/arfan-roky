@@ -1,4 +1,4 @@
-![👋 Hi, I'm Arfan Roky](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<img src="images/cover.jpg" alt="Arfan Roky">
 
 ![Profile views](https://komarev.com/ghpvc/?username=arfan-roky&label=Profile%20views&color=0e75b6&style=flat)
 
