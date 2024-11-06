@@ -37,6 +37,6 @@
 </div>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfan-roky&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfan-roky&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub top-langs Card" />
 </p>
 
