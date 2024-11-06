@@ -31,7 +31,7 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<div style="display:flex; flex-wrap:wrap; gap:8px; justify-content: left;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=arfan-roky&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub streak Card" />
 </div>
