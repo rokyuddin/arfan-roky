@@ -55,7 +55,7 @@
 </div>
 
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&count_private=true&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfan-roky&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd&layout=compact&langs_count=6" alt="Arfan Roky's Top Languages">
 </div>
 
