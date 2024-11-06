@@ -31,7 +31,7 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-3979e4?style=flat-square&logoColor=ffffff&logo=javascript)
 ![](https://img.shields.io/badge/Code-Typescript-3979e4?style=flat-square&logoColor=ffffff&logo=typescript)
-![](https://img.shields.io/badge/Code-Next-JS-3979e4?style=flat-square&logoColor=ffffff&logo=next.js)
+![](https://img.shields.io/badge/Platform-Next.js-3979e4?style=flat-square&logo=next.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/Code-React-3979e4?style=flat-square&logoColor=ffffff&logo=react)
 ![](https://img.shields.io/badge/OS-Linux-3979e4?style=flat-square&logoColor=ffffff&logo=linux)
 ![](https://img.shields.io/badge/Editor-VS_Code-3979e4?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
@@ -39,10 +39,8 @@
 ![](https://img.shields.io/badge/Code-CSS-3979e4?style=flat-square&logoColor=ffffff&logo=css3)
 ![](https://img.shields.io/badge/Code-Tailwind-3979e4?style=flat-square&logoColor=ffffff&logo=tailwind-css)
 ![](https://img.shields.io/badge/Code-Material-UI-3979e4?style=flat-square&logoColor=ffffff&logo=material-ui)
-![](https://img.shields.io/badge/Gsap-3979e4?style=flat-square&logoColor=ffffff&logo=gsap)
-![](https://img.shields.io/badge/Framer-Motion-3979e4?style=flat-square&logoColor=ffffff&logo=framer-motion)
-![](https://img.shields.io/badge/Tool-Bash-3979e4?style=flat-square&logoColor=ffffff&logo=gnu-bash)
-![](https://img.shields.io/badge/Platform-Docker-3979e4?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Platform-GSAP-3979e4?style=flat-square&logo=greensock&logoColor=ffffff)
+![](https://img.shields.io/badge/Platform-Framer%20Motion-3979e4?style=flat-square&logo=framer&logoColor=ffffff)
 ![](https://img.shields.io/badge/Platform-Storyblok-3979e4?style=flat-square&logoColor=ffffff&logo=storyblok)
 </div>
 
