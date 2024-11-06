@@ -1,9 +1,9 @@
-![👋 Hi, my name is Arfan Roky](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, I'm Arfan Roky](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=arfan-roky&label=Profile%20views&color=0e75b6&style=flat)
 
 
-# 👋 Hi, my name is Arfan Roky! 
+# 👋 Hi, I'm Arfan Roky! 
 
 🚀 Meet Arfan Roky, the self-taught frontend enthusiast who can transform ideas into sleek, responsive web applications. His dedication to crafting clean, intuitive user experiences is matched only by his drive to learn the latest web technologies and trends. When he's not coding, you’ll find him perfecting design details or streamlining workflows with his keen eye for efficiency.
 
@@ -32,7 +32,7 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-3979e4?style=flat-square&logoColor=ffffff&logo=javascript)
 ![](https://img.shields.io/badge/Code-Typescript-3979e4?style=flat-square&logoColor=ffffff&logo=typescript)
-![](https://img.shields.io/badge/Code-NextJS-3979e4?style=flat-square&logoColor=ffffff&logo=nextjs)
+![](https://img.shields.io/badge/Code-Next-JS-3979e4?style=flat-square&logoColor=ffffff&logo=next.js)
 ![](https://img.shields.io/badge/Code-React-3979e4?style=flat-square&logoColor=ffffff&logo=react)
 ![](https://img.shields.io/badge/OS-Linux-3979e4?style=flat-square&logoColor=ffffff&logo=linux)
 ![](https://img.shields.io/badge/Editor-VS_Code-3979e4?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
