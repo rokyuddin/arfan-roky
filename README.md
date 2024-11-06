@@ -25,9 +25,9 @@
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="https://arfanroky.cloud" target="_blank">https://arfanroky.cloud</a>**
 
-<h2 align="center">My Online Presence</h2>
+<h2 align="left">My Online Presence</h2>
 
-<div align="center">
+<div align="left">
 
 [![](https://img.shields.io/badge/-website-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.arfanroky.cloud/)
 [![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/arfanroky/)
@@ -35,9 +35,9 @@
 
 </div>
 
-<h2 align="center">My Techs & Tools</h2>
+<h2 align="left">My Techs & Tools</h2>
 
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/Code-JavaScript-8FFF86?style=flat-square&logoColor=ffffff&logo=javascript)
 ![](https://img.shields.io/badge/Code-Typescript-8FFF86?style=flat-square&logoColor=ffffff&logo=typescript)
@@ -55,11 +55,7 @@
 ![](https://img.shields.io/badge/Platform-Netlify-8FFF86?style=flat-square&logoColor=ffffff&logo=netlify)
 </div>
 
- **<h3 align="left">My Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32" alt="Vitest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" style="margin-right: 4px"></div>
-
- **<h3 align="left">My GitHub Stats</h3>**
+ <h2 align="center">My GitHub Stats</h2>**
 
 <div align="left">
     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub stats Card" />
