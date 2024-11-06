@@ -33,10 +33,6 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub stats Card" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=arfan-roky&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Arfan Roky GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfan-roky&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Arfan Roky GitHub top-langs Card" />
 </div>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfan-roky&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky GitHub top-langs Card" />
-</p>
 
