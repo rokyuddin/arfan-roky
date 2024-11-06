@@ -2,28 +2,19 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=arfan-roky&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Arfan Roky
-      </h1>
-    </summary>
-  </ul>
-</div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="mailto:arfanroky.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/arfan-roky" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/arfanroky" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+# 👋 Hi, my name is Arfan Roky! 
 
- **<p align="left">🚀 Meet Arfan Roky, the self-taught frontend enthusiast who can transform ideas into sleek, responsive web applications. His dedication to crafting clean, intuitive user experiences is matched only by his drive to learn the latest web technologies and trends. When he's not coding, you’ll find him perfecting design details or streamlining workflows with his keen eye for efficiency.</p>**
+🚀 Meet Arfan Roky, the self-taught frontend enthusiast who can transform ideas into sleek, responsive web applications. His dedication to crafting clean, intuitive user experiences is matched only by his drive to learn the latest web technologies and trends. When he's not coding, you’ll find him perfecting design details or streamlining workflows with his keen eye for efficiency.
 
-**<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new job portal open source platform**
-- 🌱 I'm currently learning: **📚 Exploring Gsap and Vitest for testing**
-- 💬 Ask me about: **💡 JavaScript, Typescript,  React, Next JS, Tailwind and Material UI**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="https://arfanroky.cloud" target="_blank">https://arfanroky.cloud</a>**
+<h2 align="left">Rapid Fire</h3>
+
+- 💼 I'm currently working on: 💻 Developing a new job portal open source platform
+- 🌱 I'm currently learning: 📚 Exploring Gsap and Vitest for testing
+- 💬 Ask me about: 💡 JavaScript, Typescript,  React, Next JS, Tailwind and Material UI
+- ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!
+- 📂 Portfolio: <a href="https://arfanroky.cloud" target="_blank">https://arfanroky.cloud</a>
 
 <h2 align="left">My Online Presence</h2>
 
