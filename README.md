@@ -1,11 +1,11 @@
-<img src="images/cover.jpg" alt="Arfan Roky">
+<img src="images/cover.jpg" alt="Md Rokyuddin">
 
 ![Profile views](https://komarev.com/ghpvc/?username=arfan-roky&label=Profile%20views&color=0e75b6&style=flat)
 
 
-# 👋 Hi, I'm Arfan Roky! 
+# 👋 Hi, I'm Md Rokyuddin! 
 
-🚀 Meet Arfan Roky, the self-taught frontend enthusiast who can transform ideas into sleek, responsive web applications. His dedication to crafting clean, intuitive user experiences is matched only by his drive to learn the latest web technologies and trends. When he's not coding, you’ll find him perfecting design details or streamlining workflows with his keen eye for efficiency.
+🚀 Meet Md Rokyuddin, the self-taught frontend enthusiast who can transform ideas into sleek, responsive web applications. His dedication to crafting clean, intuitive user experiences is matched only by his drive to learn the latest web technologies and trends. When he's not coding, you’ll find him perfecting design details or streamlining workflows with his keen eye for efficiency.
 
 
 <h2 align="left">Rapid Fire</h3>
