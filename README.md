@@ -1,6 +1,6 @@
 <img src="images/cover.jpg" alt="Md Rokyuddin">
 
-![Profile views](https://komarev.com/ghpvc/?username=arfan-roky&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=rokyuddin&label=Profile%20views&color=0e75b6&style=flat)
 
 
 # 👋 Hi, I'm Md Rokyuddin! 
@@ -19,9 +19,9 @@
 
 <div align="left">
 
-[![](https://img.shields.io/badge/-website-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.arfanroky.cloud/)
-[![](https://img.shields.io/badge/-linkedin-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/arfanroky/)
-[![](https://img.shields.io/badge/-x/twitter-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/arfanroky/)
+[![](https://img.shields.io/badge/-website-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://rokyuddin.vercel.app/)
+[![](https://img.shields.io/badge/-linkedin-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://linkedin.com/in/rokyuddin/)
+[![](https://img.shields.io/badge/-x/twitter-3979e4?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://x.com/rokyuddin_dev)
 
 </div>
 
@@ -46,7 +46,7 @@
  <h2 align="left">My GitHub Stats</h2>
 
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfan-roky&count_private=true&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Arfan Roky's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfan-roky&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd&layout=compact&langs_count=6" alt="Arfan Roky's Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rokyuddin&count_private=true&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd" alt="Md Rokyuddin's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokyuddin&show_icons=true&bg_color=333333&title_color=3979e4&icon_color=3979e4&text_color=dddddd&layout=compact&langs_count=6" alt="Md Rokyuddin's Top Languages">
 </div>
 
