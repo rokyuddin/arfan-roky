@@ -1,4 +1,4 @@
-<img src="images/cover.jpg" alt="Md Rokyuddin">
+<img src="https://drive.google.com/file/d/119TWUSf_suLWlvQB5rTpVTe4ba78w9Bq/view?usp=sharing" alt="Md Rokyuddin">
 
 ![Profile views](https://komarev.com/ghpvc/?username=rokyuddin&label=Profile%20views&color=0e75b6&style=flat)
 
