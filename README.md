@@ -1,7 +1,6 @@
-<img src="https://github.com/user-attachments/assets/8fb015e7-5afd-43ac-b9e7-44438acd6d88" alt="Md Rokyuddin">
+<img src="https://github.com/user-attachments/assets/5c520ecb-7da4-46ea-b1ca-64cf3db7f34a" alt="Md Rokyuddin">
 
 ![Profile views](https://komarev.com/ghpvc/?username=rokyuddin&label=Profile%20views&color=0e75b6&style=flat)
-
 
 # 👋 Hi, I'm Md Rokyuddin! 
 
