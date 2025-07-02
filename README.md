@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/5c520ecb-7da4-46ea-b1ca-64cf3db7f34a" alt="Md Rokyuddin">
+<img src="https://github.com/user-attachments/assets/2c7c8656-8e7c-4490-ac4e-365b85ed3742" alt="Md Rokyuddin">
 
 ![Profile views](https://komarev.com/ghpvc/?username=rokyuddin&label=Profile%20views&color=0e75b6&style=flat)
 
